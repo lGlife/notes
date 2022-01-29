@@ -6,4 +6,6 @@
 
 ----
 * [Introduction](README.md)
-
+* [K8S](K8S/k8s基本的知识点.md)
+	* [k8s基本的知识点](K8S/k8s基本的知识点.md)
+	
